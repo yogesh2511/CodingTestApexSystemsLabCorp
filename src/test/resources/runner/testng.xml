@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LabCorp Automation Suite" parallel="tests" thread-count="2">
+    <test name="UI Tests">
+        <parameter name="env" value="ui"/>
+        <classes>
+            <class name="runners.TestNGRunner"/>
+        </classes>
+    </test>
+    <test name="API Tests">
+        <parameter name="env" value="api"/>
+        <classes>
+            <class name="runners.TestNGRunner"/>
+        </classes>
+    </test>
+</suite>
