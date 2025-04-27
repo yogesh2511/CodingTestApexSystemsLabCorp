@@ -11,7 +11,7 @@ public class BasePage {
     protected WebDriver driver;
 
     public BasePage() {
-        this.driver = DriverManager.getInstance().getDriver();
+        this.driver = DriverManager.getDriver();
     }
 
     public void navigateTo(String url) {

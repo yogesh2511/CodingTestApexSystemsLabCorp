@@ -1,6 +1,5 @@
 package hooks;
 
-
 import utilities.DriverManager;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -11,23 +10,19 @@ import org.openqa.selenium.WebDriver;
 
 public class UIHooks {
 
-	 private WebDriver driver;
-
     @Before("@ui")
     public void beforeUIScenario(Scenario scenario) {
         System.out.println("Starting UI Scenario: " + scenario.getName());
-        driver = DriverManager.getInstance().getDriver(); 
+        DriverManager.initDriver(); // <-- Initialize driver for this thread
     }
 
     @After("@ui")
     public void afterUIScenario(Scenario scenario) {
-        if (scenario.isFailed()) {
-            byte[] screenshot = ((TakesScreenshot) driver)
-                    .getScreenshotAs(OutputType.BYTES);
+        WebDriver driver = DriverManager.getDriver(); // <-- Always fetch the driver freshly
+        if (scenario.isFailed() && driver != null) {
+            byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
             scenario.attach(screenshot, "image/png", scenario.getName());
         }
-        if (DriverManager.getInstance() != null) {
-            DriverManager.getInstance().quitDriver();
-        }
+        DriverManager.quitDriver(); // <-- Quit driver after scenario
     }
 }

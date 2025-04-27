@@ -13,22 +13,21 @@ public class APIHooks {
     public void beforeAPIScenario(Scenario scenario) {
         System.out.println("Starting API Scenario: " + scenario.getName());
         
-        // Enable detailed logging for API tests
-        if (System.getProperty("debug", "false").equals("true")) {
+        if (System.getProperty("debug", "false").equalsIgnoreCase("true")) {
             RestAssured.filters(new RequestLoggingFilter(), new ResponseLoggingFilter());
         }
     }
 
     @After("@api")
     public void afterAPIScenario(Scenario scenario) {
-        if (scenario.isFailed()) {
-            System.out.println("API Scenario failed: " + scenario.getName());
-            // You could log the last request/response here
+        try {
+            if (scenario.isFailed()) {
+                System.out.println("API Scenario failed: " + scenario.getName());
+            }
+        } finally {
+            RestAssured.reset();
+            RestAssured.filters(); // clear filters too
+            ScenarioContextManager.clear();
         }
-        
-        // Reset REST Assured to default state
-        RestAssured.reset();
-        ScenarioContextManager.clear();
     }
-   
 }

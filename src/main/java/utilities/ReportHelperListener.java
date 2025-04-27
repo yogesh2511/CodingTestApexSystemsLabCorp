@@ -19,15 +19,13 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
 
 public class ReportHelperListener implements ITestListener {
 
-	static WebDriver driver = DriverManager.getInstance().getDriver();
+	static WebDriver driver = DriverManager.getDriver();
 	static Date d = new Date();
 	static String fileName = "Extent_" + d.toString().replace(":", "_").replace(" ", "_") + ".html";
 
@@ -131,21 +129,27 @@ public class ReportHelperListener implements ITestListener {
 	}
 	
 	public static String captureScreenshot(String testName) {
-        try {
-        	File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+	    try {
+	        WebDriver driver = DriverManager.getDriver(); 
+	        if (driver == null) {
+	            LoggerUtils.info("Driver is null while capturing screenshot!");
+	            return null;
+	        }
 
-            String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-            String screenshotPath = System.getProperty("user.dir") + "/report/screenshots/" + testName + "_" + timestamp + ".png";
+	        File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
-            File destFile = new File(screenshotPath);
-            FileHandler.copy(srcFile, destFile);
-           // FileUtils.copyFile(srcFile, destFile);
+	        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+	        String screenshotPath = System.getProperty("user.dir") + "/report/screenshots/" + testName + "_" + timestamp + ".png";
 
-            return screenshotPath;
+	        File destFile = new File(screenshotPath);
+	        FileHandler.copy(srcFile, destFile);
 
-        } catch (Exception e) {
-            e.printStackTrace();
-            return null;
-        }
-    }
+	        return screenshotPath;
+
+	    } catch (Exception e) {
+	        LoggerUtils.info("Exception during capturing screenshot: " + e.getMessage());
+	        return null;
+	    }
+	}
+
 }

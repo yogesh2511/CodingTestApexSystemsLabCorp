@@ -1,57 +1,52 @@
 package utilities;
 
 import java.time.Duration;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class DriverManager {
-	private static DriverManager instance;
-	private WebDriver driver;
 
-	private DriverManager() {
-		String browser = Config.getBrowser();
-		switch (browser.toLowerCase()) {
-		case "chrome":
-			// driver = new ChromeDriver();
-			driver = ChrmeDriverManager();
-			break;
-		case "firefox":
-			driver = new FirefoxDriver();
-			break;
-		default:
-			throw new IllegalArgumentException("Unsupported browser: " + browser);
-		}
-		driver.manage().window().maximize();
-		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-	}
+    private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
-	private WebDriver ChrmeDriverManager() {
-		ChromeOptions options = new ChromeOptions();
-		options.addArguments("--disable-notifications");
-		return new ChromeDriver(options);
-		// return driver;
-	}
+    private DriverManager() {
+        // Private constructor to prevent instantiation
+    }
 
-	public static synchronized DriverManager getInstance() {
-		if (instance == null) {
-			instance = new DriverManager();
-		}
-		return instance;
-	}
+    public static void initDriver() {
+        String browser = Config.getBrowser();
+        WebDriver localDriver = null;
+        switch (browser.toLowerCase()) {
+            case "chrome":
+                localDriver = createChromeDriver();
+                break;
+            case "firefox":
+                localDriver = new FirefoxDriver();
+                break;
+            default:
+                throw new IllegalArgumentException("Unsupported browser: " + browser);
+        }
+        localDriver.manage().window().maximize();
+        localDriver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+        localDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+        driver.set(localDriver);
+    }
 
-	public WebDriver getDriver() {
-		return driver;
-	}
+    private static WebDriver createChromeDriver() {
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--disable-notifications");
+        return new ChromeDriver(options);
+    }
 
-	public void quitDriver() {
-		if (driver != null) {
-			driver.quit();
-			driver = null;
-			instance = null;
-		}
-	}
+    public static WebDriver getDriver() {
+        return driver.get();
+    }
+
+    public static void quitDriver() {
+        if (driver.get() != null) {
+            driver.get().quit();
+            driver.remove();
+        }
+    }
 }
