@@ -1,0 +1,821 @@
+2025-04-27 12:37:23 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:37:23 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:37:24 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:39:44 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:39:44 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:39:44 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:39:49 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:41:08 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:41:08 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:41:08 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:41:13 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:41:13 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:41:13 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:41:52 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:41:52 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:41:52 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:41:57 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:41:57 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:41:57 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:44:15 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:44:15 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:44:15 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:44:19 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:44:19 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:44:19 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:45:58 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:45:58 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:45:58 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:46:02 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:46:02 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:46:02 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:48:38 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:48:38 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:48:38 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:48:42 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:48:42 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:48:42 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:50:54 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:50:54 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:50:54 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:50:57 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:50:57 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:50:57 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:54:21 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:54:21 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:54:22 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:54:26 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:54:26 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:54:26 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:59:46 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 12:59:46 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 12:59:46 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 12:59:50 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 12:59:50 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 12:59:50 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:01:17 [main] INFO  HomePage:23 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:01:17 [main] INFO  HomePage:33 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 13:01:18 [main] INFO  HomePage:35 - Menu is opened, clicking on Careers link.
+2025-04-27 13:01:22 [main] INFO  HomePage:38 - Careers link is clicked.
+2025-04-27 13:01:22 [main] INFO  HomePage:47 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:01:22 [main] INFO  HomePage:49 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:43:30 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:43:30 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 13:43:30 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 13:43:30 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 13:43:34 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 13:43:34 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:43:34 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:46:00 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:46:00 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 13:46:00 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 13:46:01 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 13:46:05 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 13:46:05 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:46:05 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:49:23 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:51:11 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:51:11 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 13:51:11 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 13:51:11 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 13:51:15 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 13:51:15 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:51:15 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:51:15 [main] INFO  CareersPage:27 - Cookies handled.
+2025-04-27 13:51:19 [main] INFO  CareersPage:35 - Cookies handled.
+2025-04-27 13:54:04 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:54:04 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 13:54:04 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 13:54:04 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 13:54:08 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 13:54:08 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:54:08 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:54:08 [main] INFO  CareersPage:27 - Cookies handled.
+2025-04-27 13:54:11 [main] INFO  CareersPage:35 - Cookies handled.
+2025-04-27 13:59:31 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 13:59:31 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 13:59:32 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 13:59:32 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 13:59:36 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 13:59:36 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:59:36 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 13:59:36 [main] INFO  CareersPage:27 - Cookies handled.
+2025-04-27 13:59:40 [main] INFO  CareersPage:35 - Cookies handled.
+2025-04-27 14:00:46 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:00:47 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:00:47 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:00:47 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 14:00:52 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 14:00:52 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:00:52 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:00:52 [main] INFO  CareersPage:27 - Cookies handled.
+2025-04-27 14:00:55 [main] INFO  CareersPage:35 - Cookies handled.
+2025-04-27 14:01:46 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:01:46 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:01:46 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:01:47 [main] INFO  HomePage:39 - Menu is opened, clicking on Careers link.
+2025-04-27 14:01:51 [main] INFO  HomePage:42 - Careers link is clicked.
+2025-04-27 14:01:51 [main] INFO  HomePage:51 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:01:51 [main] INFO  HomePage:53 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:01:51 [main] INFO  CareersPage:27 - Cookies handled.
+2025-04-27 14:01:54 [main] INFO  CareersPage:35 - Cookies handled.
+2025-04-27 14:02:39 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:04:36 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:04:37 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:04:37 [main] INFO  HomePage:37 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:04:37 [main] INFO  HomePage:39 - Menu is visible, clicking on it.
+2025-04-27 14:04:37 [main] INFO  HomePage:41 - Menu is opened, clicking on Careers link.
+2025-04-27 14:04:41 [main] INFO  HomePage:43 - Careers link is clicked.
+2025-04-27 14:04:41 [main] INFO  HomePage:46 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:04:41 [main] INFO  HomePage:48 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:04:41 [main] INFO  CareersPage:27 - Cookies handled.
+2025-04-27 14:04:44 [main] INFO  CareersPage:35 - Cookies handled.
+2025-04-27 14:05:49 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:06:56 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:09:00 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:11:45 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:11:46 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:11:46 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:11:46 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:11:46 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:11:46 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:11:51 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:11:51 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:11:51 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:13:01 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:13:46 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:15:32 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:15:33 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:15:33 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:15:33 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:15:33 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:15:33 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:15:38 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:15:38 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:15:38 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:17:26 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:17:26 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:17:26 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:17:26 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:17:26 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:17:26 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:17:30 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:17:30 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:17:30 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:20:11 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:20:11 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:20:12 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:20:12 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:20:12 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:20:12 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:20:12 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:20:12 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:20:12 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:20:12 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:20:17 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:20:17 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:20:17 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:23:32 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:23:32 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:23:32 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:23:32 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:23:32 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:23:32 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:23:32 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:23:32 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:23:33 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:23:33 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:23:37 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:23:37 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:23:37 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:23:37 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:23:39 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:25:00 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:25:00 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:25:01 [main] INFO  WebElementHelper:19 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 520)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e9957472e0a5026c0ec6453267be8a6e, clickElement {id=f.DCD50D3DC7C50C57E13E4639F359EE93.d.00FAB323BD8D127567BA7D4BC111A7BB.e.48}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62233}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62233/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e9957472e0a5026c0ec6453267be8a6e)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: e9957472e0a5026c0ec6453267be8a6e
+2025-04-27 14:25:01 [main] INFO  WebElementHelper:21 - Cookies pop-up accepted using JavaScript.
+2025-04-27 14:25:01 [main] INFO  WebElementHelper:23 - Cookies pop-up not displayed or already accepted.
+2025-04-27 14:25:01 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:25:01 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:25:02 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:25:02 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:25:02 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:25:02 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:25:02 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:25:06 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:25:06 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:25:06 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:25:06 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:25:10 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:25:10 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:25:10 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:25:13 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:28:42 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:28:42 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:28:42 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:28:42 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:28:43 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:28:43 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:28:43 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:28:43 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:28:43 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:28:43 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:28:47 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:28:47 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:28:47 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:28:48 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:28:50 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:28:50 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:28:50 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:28:54 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:29:41 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:29:41 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:29:43 [main] INFO  WebElementHelper:19 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 489)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [941e03b37fdf9fa0a8b2a6d74ad8ff8d, clickElement {id=f.31CB41B41091C9D66F61B999B69F54AA.d.2D64BE38A46B83BD15682131E3B417DB.e.50}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63701}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63701/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (941e03b37fdf9fa0a8b2a6d74ad8ff8d)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 941e03b37fdf9fa0a8b2a6d74ad8ff8d
+2025-04-27 14:29:43 [main] INFO  WebElementHelper:21 - Cookies pop-up accepted using JavaScript.
+2025-04-27 14:29:43 [main] INFO  WebElementHelper:23 - Cookies pop-up not displayed or already accepted.
+2025-04-27 14:29:43 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:29:43 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:29:43 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:29:43 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:29:43 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:29:43 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:29:43 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:29:48 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:29:48 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:29:48 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:29:48 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:29:51 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:29:51 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:29:51 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:29:53 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:31:13 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:34:09 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:34:09 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:34:10 [main] INFO  WebElementHelper:18 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 522)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc6e5dba2f7f09f88a9a820a4ac330ae, clickElement {id=f.1488B9585C86078FCD73A50A663FDB79.d.BF7AB8B401F10FD654399765AB5A21B8.e.48}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64085}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64085/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (bc6e5dba2f7f09f88a9a820a4ac330ae)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: bc6e5dba2f7f09f88a9a820a4ac330ae
+2025-04-27 14:34:10 [main] INFO  WebElementHelper:22 - Cookies pop-up accepted using JavaScript.
+2025-04-27 14:34:10 [main] INFO  WebElementHelper:24 - Cookies pop-up not displayed or already accepted.
+2025-04-27 14:34:10 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:34:10 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:34:11 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:34:11 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:34:11 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:34:11 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:34:11 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:34:14 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:34:14 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:34:14 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:34:14 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:34:17 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:34:17 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:34:17 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:34:19 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:34:20 [main] INFO  JobDetailsPage:60 - Waiting for Apply Now button to be clickable.
+2025-04-27 14:34:20 [main] INFO  JobDetailsPage:62 - Apply Now button clicked.
+2025-04-27 14:34:20 [main] INFO  JobDetailsPage:66 - Waiting for Return to Job Search link to be clickable.
+2025-04-27 14:47:05 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:47:05 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:47:06 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:47:06 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:47:06 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:47:06 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:47:06 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:47:06 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:47:06 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:47:06 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:47:11 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:47:11 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:47:11 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:47:11 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:47:14 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:47:14 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:47:14 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:47:17 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:48:11 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:48:11 [main] INFO  WebElementHelper:18 - Inside catch blockno such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Accept All Cookies')]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c1aec68185310b7fe43c07ed7daba08d, findElement {using=xpath, value=//*[contains(text(),'Accept All Cookies')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64781}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64781/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c1aec68185310b7fe43c07ed7daba08d
+2025-04-27 14:48:26 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:48:26 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:48:27 [main] INFO  WebElementHelper:18 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 522)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [427a0547a892662345d56c663f38d57c, clickElement {id=f.1A13F771607C48CFA8BD4613A580648D.d.78DD9E2AA40665E572500ED8107392AB.e.53}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64824}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64824/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (427a0547a892662345d56c663f38d57c)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 427a0547a892662345d56c663f38d57c
+2025-04-27 14:48:27 [main] INFO  WebElementHelper:22 - Cookies pop-up accepted using JavaScript.
+2025-04-27 14:48:27 [main] INFO  WebElementHelper:24 - Cookies pop-up not displayed or already accepted.
+2025-04-27 14:48:27 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:48:27 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:48:27 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:48:27 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:48:27 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:48:28 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:48:28 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:48:32 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:48:32 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:48:32 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:48:32 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:48:35 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:48:35 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:48:35 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:48:37 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:48:38 [main] INFO  JobDetailsPage:59 - Waiting for Apply Now button to be clickable.
+2025-04-27 14:48:38 [main] INFO  JobDetailsPage:61 - Apply Now button clicked.
+2025-04-27 14:48:38 [main] INFO  JobDetailsPage:65 - Waiting for Return to Job Search link to be clickable.
+2025-04-27 14:54:16 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:54:16 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:54:16 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:54:16 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:54:16 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:54:16 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:54:16 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:54:16 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:54:17 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:54:17 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:54:20 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:54:20 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:54:20 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:54:21 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:54:23 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:54:23 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:54:23 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:54:26 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:55:05 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:55:05 [main] INFO  WebElementHelper:18 - Inside catch blockno such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Accept All Cookies')]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [483a199394b329b5d25f243413aa50ba, findElement {using=xpath, value=//*[contains(text(),'Accept All Cookies')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65219}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65219/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 483a199394b329b5d25f243413aa50ba
+2025-04-27 14:55:35 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:55:35 [main] INFO  WebElementHelper:18 - Inside catch blockno such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Accept All Cookies')]"}
+  (Session info: chrome=135.0.7049.115)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3f87591c0e6ef3c49e25dbae8fe5c50, findElement {value=//*[contains(text(),'Accept All Cookies')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65266}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65266/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b3f87591c0e6ef3c49e25dbae8fe5c50
+2025-04-27 14:58:06 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 14:58:06 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:58:06 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:58:06 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 14:58:06 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 14:58:06 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 14:58:06 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 14:58:06 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 14:58:06 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 14:58:06 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 14:58:11 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 14:58:11 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:58:11 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 14:58:11 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 14:58:14 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 14:58:14 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 14:58:14 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 14:58:17 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:51 - Verifying requirement: executing automated test scripts
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:58 - Verifying requirement: 5+ years of QA automation experience
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:59 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:61 - Requirement verified: 5+ years of QA automation experience
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:58 - Verifying requirement: Strong knowledge of BDD frameworks
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:59 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:61 - Requirement verified: Strong knowledge of BDD frameworks
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:66 - Waiting for Apply Now button to be clickable.
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:68 - Apply Now button clicked.
+2025-04-27 14:58:17 [main] INFO  JobDetailsPage:72 - Waiting for Return to Job Search link to be clickable.
+2025-04-27 15:02:49 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 15:02:50 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:02:51 [main] INFO  WebElementHelper:18 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 539)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7f9c9ff549901ee076b2cec39405ac3d, clickElement {id=f.552178654297FC4981453930E604B07A.d.7739AFCBBCC9AE193CDFBFBEA226C46F.e.75}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49283}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49283/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7f9c9ff549901ee076b2cec39405ac3d)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 7f9c9ff549901ee076b2cec39405ac3d
+2025-04-27 15:02:51 [main] INFO  WebElementHelper:22 - Cookies pop-up accepted using JavaScript.
+2025-04-27 15:02:51 [main] INFO  WebElementHelper:24 - Cookies pop-up not displayed or already accepted.
+2025-04-27 15:02:51 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 15:02:52 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:02:52 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:02:52 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 15:02:52 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 15:02:52 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 15:02:52 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 15:02:56 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 15:02:56 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:02:56 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:02:56 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 15:02:59 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 15:02:59 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 15:02:59 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 15:03:02 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 15:03:02 [main] INFO  JobDetailsPage:51 - Verifying requirement: executing automated test scripts
+2025-04-27 15:03:02 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:03:02 [main] INFO  JobDetailsPage:51 - Verifying requirement: 5+ years of QA automation experience
+2025-04-27 15:03:02 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:05:00 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 15:05:00 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:05:01 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:05:01 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 15:05:01 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:05:01 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:05:01 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 15:05:01 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 15:05:01 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 15:05:01 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 15:05:06 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 15:05:06 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:05:06 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:05:06 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 15:05:10 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 15:05:10 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 15:05:10 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 15:05:13 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 15:05:13 [main] INFO  JobDetailsPage:51 - Verifying requirement: automated test scripts
+2025-04-27 15:05:13 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:05:13 [main] INFO  JobDetailsPage:51 - Verifying requirement: QA automation
+2025-04-27 15:05:13 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:07:07 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 15:07:07 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:07:08 [main] INFO  WebElementHelper:18 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 498)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [050d1a56aae41b4d6d90c0a9df39be68, clickElement {id=f.106495E8876F960676E9BBB92949FF14.d.080049C7CE86CC81EAD0FFDC5A1EB23C.e.39}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49938}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49938/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (050d1a56aae41b4d6d90c0a9df39be68)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 050d1a56aae41b4d6d90c0a9df39be68
+2025-04-27 15:07:08 [main] INFO  WebElementHelper:22 - Cookies pop-up accepted using JavaScript.
+2025-04-27 15:07:08 [main] INFO  WebElementHelper:24 - Cookies pop-up not displayed or already accepted.
+2025-04-27 15:07:08 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 15:07:09 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:07:09 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:07:09 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 15:07:09 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 15:07:22 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 15:07:22 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:07:23 [main] INFO  WebElementHelper:18 - Inside catch blockelement click intercepted: Element is not clickable at point (861, 507)
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [67f035fc946311939e2ea98ab7436577, clickElement {id=f.BEEBAE9E10C4139E64D9BA7F62CB8E7E.d.9F87A81C8EAF1274219959104ED15B52.e.50}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49987}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49987/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (67f035fc946311939e2ea98ab7436577)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 67f035fc946311939e2ea98ab7436577
+2025-04-27 15:07:23 [main] INFO  WebElementHelper:22 - Cookies pop-up accepted using JavaScript.
+2025-04-27 15:07:23 [main] INFO  WebElementHelper:24 - Cookies pop-up not displayed or already accepted.
+2025-04-27 15:07:23 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 15:07:23 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:07:24 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:07:24 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 15:07:24 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 15:07:24 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 15:07:24 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 15:07:28 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 15:07:28 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:07:28 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:07:28 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 15:07:30 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 15:07:30 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 15:07:30 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 15:07:33 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:51 - Verifying requirement: automated test scripts
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:51 - Verifying requirement: Selenium
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:51 - Verifying requirement: BDD
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:52 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:59 - Waiting for Apply Now button to be clickable.
+2025-04-27 15:07:33 [main] INFO  JobDetailsPage:61 - Apply Now button clicked.
+2025-04-27 15:29:33 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-27 15:29:33 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:29:34 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:29:34 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-27 15:29:34 [main] INFO  WebElementHelper:13 - Cookies pop-up is displayed.
+2025-04-27 15:29:34 [main] INFO  WebElementHelper:15 - Cookies pop-up accepted.
+2025-04-27 15:29:34 [main] INFO  HomePage:34 - Cookies handled.
+2025-04-27 15:29:34 [main] INFO  HomePage:39 - Careers link is not displayed, attempting to open the menu.
+2025-04-27 15:29:34 [main] INFO  HomePage:41 - Menu is visible, clicking on it.
+2025-04-27 15:29:34 [main] INFO  HomePage:43 - Menu is opened, clicking on Careers link.
+2025-04-27 15:29:38 [main] INFO  HomePage:45 - Careers link is clicked.
+2025-04-27 15:29:38 [main] INFO  HomePage:48 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:29:38 [main] INFO  HomePage:50 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-27 15:29:38 [main] INFO  CareersPage:27 - Searching for position: Automation Engineer
+2025-04-27 15:29:40 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-27 15:29:40 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-27 15:29:40 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-27 15:29:43 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:32 - Job ID is displayed: true
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:40 - Job ID is displayed: true
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:48 - Job ID is displayed: true
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:55 - Verifying requirement: automated test scripts
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:56 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:55 - Verifying requirement: Selenium
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:56 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:55 - Verifying requirement: BDD
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:56 - Description paragraph text: Position Overview: As a Software Automation Engineer, you will play a critical role in ensuring the quality and reliability of our web applications developed using Angular. You will be responsible for designing, developing, and executing automated test scripts using Selenium and Cucumber to validate the functionality and performance of our web applications.  The ideal candidate will relish working at speed, have a great attention for detail, and outstanding communication skills.  Engineers that show an aptitude for writing great code will be afforded the opportunity to contribute across the entire codebase.
+Key Responsibilities:
+Test Automation Development: Collaborate with the development and quality assurance teams to create, maintain, and enhance automated test scripts using Selenium and Cucumber. Test Planning: Participate in test planning activities to define test scope, objectives, and strategies for web applications. Test Execution: Execute automated test scripts to validate the functionality, usability, and performance of web applications across different browsers and platforms. Defect Identification: Identify and report defects with clear steps to reproduce, and work closely with developers to ensure timely resolution. Regression Testing: Implement and maintain automated regression test suites to ensure the stability of the application with each release. Continuous Integration: Integrate test automation into the continuous integration/continuous deployment (CI/CD) pipeline for automated build and deployment verification. Collaboration: Collaborate with cross-functional teams to drive test automation best practices and participate in code reviews.
+Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field.
+Proven experience in software test automation, particularly with Selenium and Cucumber.
+Strong proficiency in programming languages such as Java or JavaScript.
+Familiarity with web technologies, including Angular.
+Experience with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins).
+Strong problem-solving and debugging skills.
+Excellent communication and teamwork skills.
+Ability to work independently and manage priorities effectively.
+Knowledge of software testing best practices and methodologies.
+Preferred Qualifications:
+Experience with other test automation frameworks and tools.
+Knowledge of Behavior-Driven Development (BDD) principles.
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility.
+For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:63 - Waiting for Apply Now button to be clickable.
+2025-04-27 15:29:43 [main] INFO  JobDetailsPage:65 - Apply Now button clicked.

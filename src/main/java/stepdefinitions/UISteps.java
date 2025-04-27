@@ -43,7 +43,8 @@ public class UISteps {
         jobDetailsPage.verifyJobLocation(expectedDetails.get("Job Location"));
         jobDetailsPage.verifyJobId(expectedDetails.get("Job ID"));
         jobDetailsPage.verifyDescriptionText(expectedDetails.get("Description Text"));
-        jobDetailsPage.verifyRequirement(expectedDetails.get("Requirement"));
+        jobDetailsPage.verifyDescriptionText(expectedDetails.get("Requirement1"));
+        jobDetailsPage.verifyDescriptionText(expectedDetails.get("Requirement2"));
     }
 
     @When("I click on Apply Now button")

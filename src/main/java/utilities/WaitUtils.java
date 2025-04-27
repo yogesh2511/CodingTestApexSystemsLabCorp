@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class WaitUtils {
-    private static final int DEFAULT_TIMEOUT = 10;
+    private static final int DEFAULT_TIMEOUT = Config.getDefaultTimeout();
 
     public static WebElement waitForElementVisible(WebDriver driver,WebElement element) {
         return new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_TIMEOUT))

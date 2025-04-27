@@ -31,6 +31,6 @@ public class Config {
     }
     
 	public static int getDefaultTimeout() {
-		return Integer.parseInt(properties.getProperty("default.timeout", "10"));
+		return Integer.parseInt(properties.getProperty("default.timeout", "30"));
 	}
 }

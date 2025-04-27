@@ -1,6 +1,10 @@
 package pages;
 
+import utilities.JavaScriptUtils;
+import utilities.LoggerUtils;
 import utilities.WaitUtils;
+import utilities.WebElementHelper;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -20,12 +24,21 @@ public class CareersPage extends BasePage{
     public void searchForPosition(String position) {
         WaitUtils.waitForElementVisible(driver, searchInput);
         searchInput.sendKeys(position);
+        LoggerUtils.info("Searching for position: " + position);
         searchButton.click();
+        LoggerUtils.info("Search button clicked.");
+        
     }
 
     public void selectFirstPosition() {
-        By firstPositionLocator = By.xpath("(//li[@class='jobs-list-item'])[1]");
+    	// WebElementHelper.cookiesHandler(driver);
+    	 
+         LoggerUtils.info("Before Select First position handle Cookies.");
+        By firstPositionLocator = By.xpath("(//li[@class='jobs-list-item'])//*[contains(text(),'Automation')]");
+        LoggerUtils.info("Waiting for the first position to be clickable.");
         WaitUtils.waitForElementClickable(driver,firstPositionLocator);
-        driver.findElement(firstPositionLocator).click();
+        JavaScriptUtils.clickElement(driver, firstPositionLocator);
+        LoggerUtils.info("First position clicked.");
+      //  driver.findElement(firstPositionLocator).click();
     }
 }

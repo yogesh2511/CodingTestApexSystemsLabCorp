@@ -26,7 +26,8 @@ public class UIHooks {
                     .getScreenshotAs(OutputType.BYTES);
             scenario.attach(screenshot, "image/png", scenario.getName());
         }
-        DriverManager.getInstance().quitDriver();
-		System.out.println("Finished UI Scenario: " + scenario.getName());
+        if (DriverManager.getInstance() != null) {
+            DriverManager.getInstance().quitDriver();
+        }
     }
 }
