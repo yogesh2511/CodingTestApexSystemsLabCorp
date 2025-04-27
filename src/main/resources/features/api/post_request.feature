@@ -1,3 +1,4 @@
+@api
 Feature: Order API Validation
   As an API consumer
   I want to validate order API responses

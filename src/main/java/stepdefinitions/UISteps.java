@@ -1,6 +1,7 @@
 package stepdefinitions;
 
 
+import pages.ApplicationPage;
 import pages.CareersPage;
 import pages.HomePage;
 import pages.JobDetailsPage;
@@ -13,7 +14,8 @@ public class UISteps {
     private HomePage homePage;
     private CareersPage careersPage;
     private JobDetailsPage jobDetailsPage;
-
+    private ApplicationPage applicationPage;
+    
     @Given("I navigate to LabCorp homepage")
     public void navigateToHomepage() {
         homePage = new HomePage();
@@ -43,8 +45,11 @@ public class UISteps {
         jobDetailsPage.verifyJobLocation(expectedDetails.get("Job Location"));
         jobDetailsPage.verifyJobId(expectedDetails.get("Job ID"));
         jobDetailsPage.verifyDescriptionText(expectedDetails.get("Description Text"));
+        jobDetailsPage.verifyDescriptionText(expectedDetails.get("Qualifications"));
+        jobDetailsPage.verifyDescriptionText(expectedDetails.get("Responsibilities"));
         jobDetailsPage.verifyDescriptionText(expectedDetails.get("Requirement1"));
         jobDetailsPage.verifyDescriptionText(expectedDetails.get("Requirement2"));
+        jobDetailsPage.verifyDescriptionText(expectedDetails.get("Requirement3"));
     }
 
     @When("I click on Apply Now button")
@@ -52,18 +57,23 @@ public class UISteps {
         jobDetailsPage.clickApplyNow();
     }
 
-    @Then("I should see the same job details on the application page")
-    public void verifyApplicationPage() {
-        // Implementation for application page verification
-    }
-
+  
     @When("I click to return to job search")
     public void clickReturnToJobSearch() {
         jobDetailsPage.clickReturnToJobSearch();
     }
-
-    @Then("I should be back to the search results page")
+    
+	@Then("^I should see the same \"([^\"]*)\" on the application page$")
+	public void iShouldSeeTheSameOnTheApplicationPage(String title) throws Throwable {
+		applicationPage = new ApplicationPage();
+		applicationPage.pageTitleVerification(title);
+	}
+	
+	@Then("I should be back to the search results page")
     public void verifySearchResultsPage() {
+		applicationPage.backToJobDetails();
+		//jobDetailsPage.
         // Implementation for search results verification
     }
+
 }

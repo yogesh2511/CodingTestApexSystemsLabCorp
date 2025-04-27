@@ -1,0 +1,36 @@
+2025-04-27 18:40:49 [main] ERROR WebElementHelper:47 - Window with title 'Automation Engineer' not found
+2025-04-27 18:40:49 [main] ERROR WebElementHelper:52 - Failed to switch windows: Window with title 'Automation Engineer' not found
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: unknown
+2025-04-27 18:49:12 [main] ERROR WebElementHelper:75 - Window with title 'Automation Engineer' not found
+2025-04-27 18:49:12 [main] ERROR WebElementHelper:83 - Failed to switch windows: Window with title 'Automation Engineer' not found
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: unknown
+2025-04-27 18:50:40 [main] ERROR WebElementHelper:75 - Window with title 'Automation Engineer' not found
+2025-04-27 18:50:40 [main] ERROR WebElementHelper:83 - Failed to switch windows: Window with title 'Automation Engineer' not found
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: unknown
+2025-04-27 18:52:15 [main] ERROR WebElementHelper:75 - Window with title 'Automation Engineer' not found
+2025-04-27 18:52:15 [main] ERROR WebElementHelper:83 - Failed to switch windows: Window with title 'Automation Engineer' not found
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: unknown
+2025-04-27 19:01:00 [main] ERROR WebElementHelper:72 - Window with title 'Automation Engineer' not found
+2025-04-27 19:01:00 [main] ERROR WebElementHelper:80 - Failed to switch windows: Window with title 'Automation Engineer' not found
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: unknown
+2025-04-27 19:05:29 [main] ERROR WebElementHelper:72 - Window with title 'Automation Engineer' not found
+2025-04-27 19:05:29 [main] ERROR WebElementHelper:80 - Failed to switch windows: Window with title 'Automation Engineer' not found
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: driver.version: unknown
+2025-04-27 19:13:46 [main] ERROR WebElementHelper:57 - Window switching failed: Expected condition failed: waiting for number of open windows to be 2 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61987}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61987/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c10481b8d9767150f880e68803ac1ff
