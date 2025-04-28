@@ -34,8 +34,11 @@ public class RestClient {
 		if (request == null) {
 			reset();
 		}
-		response = request.get(endpoint);
-		return response;
+		response = request.get(endpoint)
+				.then()
+				.extract().response();
+		 response.getBody().asString();
+		    return response;
 	}
 
 	public static Response post(String endpoint, Object requestBody) {

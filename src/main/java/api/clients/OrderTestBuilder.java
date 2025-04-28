@@ -1,11 +1,4 @@
-package api.models;
-
-import api.clients.Address;
-import api.clients.Customer;
-import api.clients.Item;
-import api.clients.Order;
-import api.clients.Payment;
-import api.clients.Shipping;
+package api.clients;
 
 import java.util.Arrays;
 import java.util.List;

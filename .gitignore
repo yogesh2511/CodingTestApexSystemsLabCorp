@@ -1,1 +1,149 @@
 /target/
+# Maven target directory
+target/
+**/target/
+
+# Test reports and outputs
+report/
+**/report/
+test-output/
+**/test-output/
+*.log
+*.logs
+logs/
+target/
+**/target/
+**/logs/*.tmp
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+**/node_modules/
+
+# Log files
+*.log
+*.log.*
+*.tmp
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# System Files
+*.bak
+*.backup
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ
+out/
+.idea_modules/
+*.eml
+*.class
+
+# Build tool specific
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven
+dependency-reduced-pom.xml
+maven-*.xml
+
+# Eclipse
+.checkstyle
+.springBeans
+.factorypath
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log Files
+*.log
+
+# Temp Files
+*.tmp
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vsc

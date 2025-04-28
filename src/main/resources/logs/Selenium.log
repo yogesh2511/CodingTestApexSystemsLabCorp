@@ -2295,3 +2295,350 @@ Session ID: b1899de683f58adb1bcba623437eeb78
 2025-04-27 21:58:27 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: 198FA940C6D87E53E00C548F84EABC15
 2025-04-27 21:58:30 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
 2025-04-27 21:58:30 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 18:45:11 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:45:11 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:45:12 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:45:12 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:47:43 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:47:43 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 18:47:44 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:47:44 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:47:44 [TestNG-tests-1] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 18:47:44 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 18:47:55 [TestNG-tests-2] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 18:47:55 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 18:47:56 [TestNG-tests-2] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 18:47:56 [TestNG-tests-2] INFO  HomePage:27 - Cookies handled.
+2025-04-28 18:47:56 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 18:47:56 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 18:47:57 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 18:47:57 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 18:47:57 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-28 18:47:57 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 18:47:58 [TestNG-tests-1] INFO  WebElementHelper:27 - Inside catch blockelement click intercepted: Element <button id="onetrust-accept-btn-handler">...</button> is not clickable at point (133, 20). Other element would receive the click: <div class="languageSelector aem-GridColumn aem-GridColumn--default--12">...</div>
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4992e2b5a86e2cdc70ce73d6bb9a0b1a, clickElement {id=f.74803EB8ADB28FEC4FAB57478EA2123A.d.193CFF0909EE641762BA6A556CE9F5EE.e.102}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60432}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60432/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4992e2b5a86e2cdc70ce73d6bb9a0b1a)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 4992e2b5a86e2cdc70ce73d6bb9a0b1a
+2025-04-28 18:47:58 [TestNG-tests-1] INFO  WebElementHelper:33 - Cookies pop-up not displayed or already accepted.
+2025-04-28 18:47:58 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-28 18:47:58 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 18:47:59 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 18:47:59 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 18:48:03 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 18:48:03 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 18:48:03 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 18:48:04 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 18:48:07 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 18:48:07 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 18:48:07 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 18:48:10 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 18:48:11 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 18:48:11 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 18:48:11 [TestNG-tests-1] INFO  JobDetailsPage:64 - Parent window handle: 74803EB8ADB28FEC4FAB57478EA2123A
+2025-04-28 18:48:11 [TestNG-tests-1] INFO  JobDetailsPage:66 - Parent window stored in alias: 74803EB8ADB28FEC4FAB57478EA2123A
+2025-04-28 18:48:11 [TestNG-tests-1] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 18:48:11 [TestNG-tests-1] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 18:48:19 [TestNG-tests-1] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 18:48:19 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 18:48:19 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 74803EB8ADB28FEC4FAB57478EA2123A
+2025-04-28 18:48:19 [TestNG-tests-1] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 18:48:19 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 18:48:19 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 74803EB8ADB28FEC4FAB57478EA2123A
+2025-04-28 18:48:22 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:48:22 [TestNG-tests-1] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 18:48:26 [TestNG-tests-2] INFO  WebElementHelper:27 - Inside catch blockelement not interactable
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c1b746d54b3f6366b6c7d613b9dfc6ef, clickElement {id=f.17B6BBBFD57959D18C91E101D40BB63D.d.80052AD4BB1CB1FF22860DE9F669EFBA.e.102}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60431}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60431/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c1b746d54b3f6366b6c7d613b9dfc6ef)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: c1b746d54b3f6366b6c7d613b9dfc6ef
+2025-04-28 18:48:26 [TestNG-tests-2] INFO  WebElementHelper:33 - Cookies pop-up not displayed or already accepted.
+2025-04-28 18:48:26 [TestNG-tests-2] INFO  HomePage:35 - Cookies handled.
+2025-04-28 18:48:26 [TestNG-tests-2] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 18:48:29 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:48:29 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:50:38 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:50:38 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:50:39 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:50:39 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 18:51:32 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 18:51:32 [main] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 18:51:33 [main] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 18:51:33 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-28 18:51:33 [main] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 18:51:33 [main] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 18:51:33 [main] INFO  HomePage:35 - Cookies handled.
+2025-04-28 18:51:33 [main] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 18:51:33 [main] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 18:51:33 [main] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 18:51:38 [main] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 18:51:38 [main] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 18:51:38 [main] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 18:51:39 [main] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 18:51:41 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 18:51:41 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 18:51:41 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 18:51:44 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-28 18:51:44 [main] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 18:51:44 [main] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 18:51:44 [main] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 18:51:44 [main] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 18:51:44 [main] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:64 - Parent window handle: 138259B006749334B7B3A372F823A9D6
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:66 - Parent window stored in alias: 138259B006749334B7B3A372F823A9D6
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 18:51:45 [main] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 18:51:53 [main] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 18:51:53 [main] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 18:51:53 [main] INFO  WebElementHelper:87 - Switched back to parent window: 138259B006749334B7B3A372F823A9D6
+2025-04-28 18:51:53 [main] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 18:51:53 [main] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 18:51:53 [main] INFO  WebElementHelper:87 - Switched back to parent window: 138259B006749334B7B3A372F823A9D6
+2025-04-28 19:21:13 [main] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 19:21:13 [main] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:21:13 [main] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:21:13 [main] INFO  HomePage:27 - Cookies handled.
+2025-04-28 19:21:14 [main] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:21:15 [main] INFO  WebElementHelper:27 - Inside catch blockelement click intercepted: Element <button id="onetrust-accept-btn-handler">...</button> is not clickable at point (133, 20). Other element would receive the click: <div class="languageSelector aem-GridColumn aem-GridColumn--default--12">...</div>
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7df9a2f07efa84ea64ec9cdec443a9af, clickElement {id=f.ECDE7F574366FAC41EC8218FD8C24F28.d.D7CC136CFA7E18ADD33CCE5BC8BE3F99.e.95}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62601}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62601/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7df9a2f07efa84ea64ec9cdec443a9af)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: 7df9a2f07efa84ea64ec9cdec443a9af
+2025-04-28 19:21:15 [main] INFO  WebElementHelper:33 - Cookies pop-up not displayed or already accepted.
+2025-04-28 19:21:15 [main] INFO  HomePage:35 - Cookies handled.
+2025-04-28 19:21:15 [main] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 19:21:15 [main] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 19:21:15 [main] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 19:21:21 [main] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 19:21:21 [main] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:21:21 [main] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:21:21 [main] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 19:21:23 [main] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 19:21:23 [main] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 19:21:23 [main] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 19:21:26 [main] INFO  CareersPage:41 - First position clicked.
+2025-04-28 19:21:26 [main] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 19:21:26 [main] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 19:21:26 [main] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:64 - Parent window handle: ECDE7F574366FAC41EC8218FD8C24F28
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:66 - Parent window stored in alias: ECDE7F574366FAC41EC8218FD8C24F28
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 19:21:27 [main] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 19:21:34 [main] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 19:21:34 [main] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 19:21:34 [main] INFO  WebElementHelper:87 - Switched back to parent window: ECDE7F574366FAC41EC8218FD8C24F28
+2025-04-28 19:21:34 [main] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 19:21:34 [main] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 19:21:34 [main] INFO  WebElementHelper:87 - Switched back to parent window: ECDE7F574366FAC41EC8218FD8C24F28
+2025-04-28 19:22:16 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:22:16 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:22:18 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:22:18 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:22:19 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:22:19 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:22:25 [TestNG-tests-2] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 19:22:25 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:22:25 [TestNG-tests-2] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:22:25 [TestNG-tests-2] INFO  HomePage:27 - Cookies handled.
+2025-04-28 19:22:26 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:22:26 [TestNG-tests-2] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:22:26 [TestNG-tests-2] INFO  HomePage:35 - Cookies handled.
+2025-04-28 19:22:26 [TestNG-tests-2] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 19:22:26 [TestNG-tests-2] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 19:22:26 [TestNG-tests-2] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 19:22:30 [TestNG-tests-2] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 19:22:30 [TestNG-tests-2] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:22:30 [TestNG-tests-2] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:22:31 [TestNG-tests-2] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 19:22:34 [TestNG-tests-2] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 19:22:34 [TestNG-tests-2] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 19:22:34 [TestNG-tests-2] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  CareersPage:41 - First position clicked.
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:64 - Parent window handle: F317A1D0A34C8837B695B2E8A694503A
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:66 - Parent window stored in alias: F317A1D0A34C8837B695B2E8A694503A
+2025-04-28 19:22:37 [TestNG-tests-2] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 19:22:38 [TestNG-tests-2] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 19:22:44 [TestNG-tests-2] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 19:22:44 [TestNG-tests-2] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 19:22:44 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: F317A1D0A34C8837B695B2E8A694503A
+2025-04-28 19:22:44 [TestNG-tests-2] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 19:22:44 [TestNG-tests-2] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 19:22:44 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: F317A1D0A34C8837B695B2E8A694503A
+2025-04-28 19:22:46 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:22:46 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:26:15 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:26:15 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:26:17 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:26:17 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:26:18 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:26:18 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:26:24 [TestNG-tests-2] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 19:26:24 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:26:24 [TestNG-tests-2] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:26:24 [TestNG-tests-2] INFO  HomePage:27 - Cookies handled.
+2025-04-28 19:26:24 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:26:25 [TestNG-tests-2] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:26:25 [TestNG-tests-2] INFO  HomePage:35 - Cookies handled.
+2025-04-28 19:26:25 [TestNG-tests-2] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 19:26:25 [TestNG-tests-2] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 19:26:25 [TestNG-tests-2] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 19:26:31 [TestNG-tests-2] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 19:26:31 [TestNG-tests-2] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:26:31 [TestNG-tests-2] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:26:31 [TestNG-tests-2] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 19:26:34 [TestNG-tests-2] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 19:26:34 [TestNG-tests-2] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 19:26:34 [TestNG-tests-2] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 19:26:38 [TestNG-tests-2] INFO  CareersPage:41 - First position clicked.
+2025-04-28 19:26:38 [TestNG-tests-2] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 19:26:38 [TestNG-tests-2] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 19:26:38 [TestNG-tests-2] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:64 - Parent window handle: A11AF28F45B289DB5F2EBFDDA377D343
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:66 - Parent window stored in alias: A11AF28F45B289DB5F2EBFDDA377D343
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 19:26:39 [TestNG-tests-2] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 19:26:45 [TestNG-tests-2] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 19:26:45 [TestNG-tests-2] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 19:26:45 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: A11AF28F45B289DB5F2EBFDDA377D343
+2025-04-28 19:26:45 [TestNG-tests-2] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 19:26:45 [TestNG-tests-2] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 19:26:45 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: A11AF28F45B289DB5F2EBFDDA377D343
+2025-04-28 19:26:47 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:26:47 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:32:18 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:32:18 [TestNG-tests-1] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:32:19 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:32:19 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:32:19 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:32:19 [TestNG-tests-1] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:32:23 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 19:32:24 [TestNG-tests-2] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-28 19:32:24 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:32:24 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:32:24 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:32:24 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-28 19:32:25 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:32:25 [TestNG-tests-2] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:32:25 [TestNG-tests-2] INFO  HomePage:27 - Cookies handled.
+2025-04-28 19:32:25 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-28 19:32:25 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-28 19:32:25 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 19:32:25 [TestNG-tests-2] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-28 19:32:25 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 19:32:25 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 19:32:30 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 19:32:30 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:32:30 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:32:30 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 19:32:33 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 19:32:33 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 19:32:33 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 19:32:36 [TestNG-tests-1] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 19:32:37 [TestNG-tests-1] INFO  JobDetailsPage:64 - Parent window handle: 185903C7E9A7DC3653C97FE5626CF304
+2025-04-28 19:32:37 [TestNG-tests-1] INFO  JobDetailsPage:66 - Parent window stored in alias: 185903C7E9A7DC3653C97FE5626CF304
+2025-04-28 19:32:37 [TestNG-tests-1] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 19:32:37 [TestNG-tests-1] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 19:32:42 [TestNG-tests-1] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 19:32:42 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 19:32:42 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 185903C7E9A7DC3653C97FE5626CF304
+2025-04-28 19:32:42 [TestNG-tests-1] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 19:32:42 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 19:32:42 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 185903C7E9A7DC3653C97FE5626CF304
+2025-04-28 19:32:45 [TestNG-tests-1] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:32:45 [TestNG-tests-1] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-28 19:32:55 [TestNG-tests-2] INFO  WebElementHelper:27 - Inside catch blockelement not interactable
+  (Session info: chrome=135.0.7049.115)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [de115acbae53bc587e680043ec9f9233, clickElement {id=f.56586589FA773AF3F059D7AD95D48DA2.d.8D9DA83FF612BD146BA73036423B0CF8.e.53}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.115, chrome: {chromedriverVersion: 135.0.7049.114 (63fd8a7d9d0..., userDataDir: C:\Users\VIKRAM~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63353}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63353/devtoo..., se:cdpVersion: 135.0.7049.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (de115acbae53bc587e680043ec9f9233)] -> xpath: //*[contains(text(),'Accept All Cookies')]]
+Session ID: de115acbae53bc587e680043ec9f9233
+2025-04-28 19:32:55 [TestNG-tests-2] INFO  WebElementHelper:33 - Cookies pop-up not displayed or already accepted.
+2025-04-28 19:32:55 [TestNG-tests-2] INFO  HomePage:35 - Cookies handled.
+2025-04-28 19:32:55 [TestNG-tests-2] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-28 19:32:55 [TestNG-tests-2] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-28 19:32:55 [TestNG-tests-2] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-28 19:32:59 [TestNG-tests-2] INFO  HomePage:46 - Careers link is clicked.
+2025-04-28 19:32:59 [TestNG-tests-2] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:32:59 [TestNG-tests-2] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-28 19:32:59 [TestNG-tests-2] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-28 19:33:03 [TestNG-tests-2] INFO  CareersPage:29 - Search button clicked.
+2025-04-28 19:33:03 [TestNG-tests-2] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-28 19:33:03 [TestNG-tests-2] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  CareersPage:41 - First position clicked.
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:35 - Job Title is displayed: true
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:43 - Job Location is displayed: true
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:51 - Job ID is displayed: true
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: automated test scripts
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Bachelor
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Test Automation Development
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: BDD
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: test planning
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:58 - Verifying requirement: Selenium
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:64 - Parent window handle: 56586589FA773AF3F059D7AD95D48DA2
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:66 - Parent window stored in alias: 56586589FA773AF3F059D7AD95D48DA2
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:68 - Waiting for Apply Now button to be clickable.
+2025-04-28 19:33:06 [TestNG-tests-2] INFO  JobDetailsPage:70 - Apply Now button clicked.
+2025-04-28 19:33:12 [TestNG-tests-2] INFO  JobDetailsPage:74 - Waiting for Return to Job Search link to be clickable.
+2025-04-28 19:33:12 [TestNG-tests-2] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-28 19:33:12 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: 56586589FA773AF3F059D7AD95D48DA2
+2025-04-28 19:33:12 [TestNG-tests-2] INFO  JobDetailsPage:76 - Return to Job Search link clicked.
+2025-04-28 19:33:12 [TestNG-tests-2] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-28 19:33:12 [TestNG-tests-2] INFO  WebElementHelper:87 - Switched back to parent window: 56586589FA773AF3F059D7AD95D48DA2
+2025-04-28 19:33:14 [TestNG-tests-2] INFO  ReportHelperListener:135 - Driver is null while capturing screenshot!
+2025-04-28 19:33:14 [TestNG-tests-2] INFO  ReportHelperListener:60 - Exception during success reporting: ScreenCapture path must not be null or empty

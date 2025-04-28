@@ -36,8 +36,10 @@ public class ApiSteps {
     @When("I send a GET request to {string}")
     public void sendGetRequest(String endpoint) {
         response = RestClient.get(endpoint);
+        String responseBody = response.getBody().asString();
         ScenarioContextManager.setResponse(response);
         ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
+        
     }
 
     @When("I send a PUT request to {string}")
