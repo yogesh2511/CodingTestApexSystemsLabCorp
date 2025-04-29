@@ -32,6 +32,8 @@ public class JobDetailsPage extends BasePage {
 	public void verifyJobTitle(String expectedTitle) {
 		WebElement JT = WaitUtils.waitForElementVisible(driver, jobTitle);
 		boolean isJTDisplayed = JT.isDisplayed();
+		LoggerUtils.info("Job Title: " + JT.getText());
+		AliasUtility.storeAlias("JobTitle", JT.getText());
 		LoggerUtils.info("Job Title is displayed: " + isJTDisplayed);
 		Boolean isIdCorrect = Boolean.valueOf(expectedTitle);
 		Assert.assertEquals(isIdCorrect, isJTDisplayed);
@@ -55,6 +57,7 @@ public class JobDetailsPage extends BasePage {
 
 	public void verifyDescriptionText(String expectedText) {
 		WebElement descriptionPara = WaitUtils.waitForElementVisible(driver, descriptionParagraph);
+		LoggerUtils.info("Description: "+descriptionPara.getText());
 		LoggerUtils.info("Verifying requirement: " + expectedText);
 		Assert.assertTrue(descriptionPara.getText().toLowerCase().contains(expectedText.toLowerCase()));
 	}

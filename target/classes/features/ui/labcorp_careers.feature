@@ -14,13 +14,13 @@ Feature: LabCorp Careers Job Validation
       | Job Title        | True                        |
       | Job Location     | True                        |
       | Job ID           | True                        |
-      | Description Text | automated test scripts      |
-      | Qualifications   | Bachelor                    |
-      | Responsibilities | Test Automation Development |
+      | Description Text | Postman							       |
+      | Qualifications   | B.Tech                      |
+      | Responsibilities | web-based automation				 |
       | Requirement1     | BDD                         |
-      | Requirement2     | test planning               |
+      | Requirement2     | Git					               |
       | Requirement3     | Selenium                    |
     When I click on Apply Now button
-    Then I should see the same "Automation Engineer" on the application page
+    Then I should see the same "Senior QA Automation Engineer" on the application page
     When I click to return to job search
     Then I should be back to the search results page

@@ -72,8 +72,9 @@ public class UISteps {
 	@Then("I should be back to the search results page")
     public void verifySearchResultsPage() {
 		applicationPage.backToJobDetails();
-		//jobDetailsPage.
-        // Implementation for search results verification
     }
+	
+	
+	
 
 }
