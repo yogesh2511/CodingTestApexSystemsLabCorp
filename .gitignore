@@ -1,12 +1,39 @@
 /target/
 # Maven target directory
-target/
-**/target/
+target/**
+
+# Ignore log files
+src/main/resources/logs/
+
+# Ignore Cucumber temporary files
+target/classes/.cucumber/
+
+# Ignore Maven generated files
+target/classes/META-INF/*.tmp
+
+# Ignore compiled classes
+# Specific files to ignore
+src/main/resources/logs/*.log
+target/classes/.cucumber/cucumber.glue.tmp
+target/classes/.cucumber/cucumber.stepDefinitions.tmp
+target/classes/META-INF/maven/labcorp-automation-framework/labcorp-automation-framework/pom.properties
+target/classes/hooks/ScenarioHooks.class
+target/classes/pages/BasePage.class
+target/classes/runner/TestNgRunner.class
+target/classes/stepdefinitions/ApiSteps.class
+target/classes/stepdefinitions/UISteps.class
+test-output/emailable-report.html
+test-output/index.html
+test-output/junitreports/TEST-runner.TestNgRunner.xml
+test-output/testng-results.xml
+
+# Ignore test output files
+test-output/
 
 # Test reports and outputs
 report/
 **/report/
-test-output/
+test-output/**
 **/test-output/
 *.log
 *.logs

@@ -17,22 +17,17 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.Markup;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 
+import pages.BasePage;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
 
-public class ReportHelperListener implements ITestListener {
+public class ReportHelperListener extends BasePage implements ITestListener {
 
-	static Date d = new Date();
-	static String fileName = "Extent_" + d.toString().replace(":", "_").replace(" ", "_") + ".html";
-
-	protected static ExtentReports extent = ExtentManager
-			.createInstance(System.getProperty("user.dir") + "\\report\\" + fileName);
-
-	protected static ExtentTest test;
-
+	
 	@Override
 	public void onStart(ITestContext context) {
 

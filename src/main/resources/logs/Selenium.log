@@ -4704,3 +4704,1147 @@ If you are an individual with a disability who needs assistance using our online
 2025-04-29 15:11:01 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 43FC3AC2602153DDF551F526226DE7A2
 2025-04-29 15:11:05 [TestNG-tests-1] INFO  ReportHelperListener:132 - Driver is null while capturing screenshot!
 2025-04-29 15:11:05 [TestNG-tests-1] INFO  ReportHelperListener:59 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 18:54:19 [TestNG-tests-1] INFO  ReportHelperListener:132 - Driver is null while capturing screenshot!
+2025-04-29 18:54:19 [TestNG-tests-1] INFO  ReportHelperListener:59 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 18:54:20 [TestNG-tests-1] INFO  ReportHelperListener:132 - Driver is null while capturing screenshot!
+2025-04-29 18:54:20 [TestNG-tests-1] INFO  ReportHelperListener:59 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 18:54:24 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-29 18:54:24 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-29 18:54:25 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-29 18:54:29 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-29 18:54:29 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 18:54:29 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 18:54:30 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-29 18:54:32 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-29 18:54:32 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-29 18:54:32 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title: Senior QA Automation Engineer
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:37 - Job Title is displayed: true
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:45 - Job Location is displayed: true
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:53 - Job ID is displayed: true
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Postman
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: B.Tech
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: web-based automation
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: BDD
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Git
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Selenium
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:67 - Parent window handle: 6E205F76BC8D74904E84BE3FC5CEACB5
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:69 - Parent window stored in alias: 6E205F76BC8D74904E84BE3FC5CEACB5
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:71 - Waiting for Apply Now button to be clickable.
+2025-04-29 18:54:35 [TestNG-tests-1] INFO  JobDetailsPage:73 - Apply Now button clicked.
+2025-04-29 18:54:41 [TestNG-tests-1] INFO  JobDetailsPage:77 - Waiting for Return to Job Search link to be clickable.
+2025-04-29 18:54:41 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-29 18:54:41 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 6E205F76BC8D74904E84BE3FC5CEACB5
+2025-04-29 18:54:41 [TestNG-tests-1] INFO  JobDetailsPage:79 - Return to Job Search link clicked.
+2025-04-29 18:54:41 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-29 18:54:41 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 6E205F76BC8D74904E84BE3FC5CEACB5
+2025-04-29 18:54:44 [TestNG-tests-1] INFO  ReportHelperListener:132 - Driver is null while capturing screenshot!
+2025-04-29 18:54:44 [TestNG-tests-1] INFO  ReportHelperListener:59 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:25:43 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:25:43 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:25:44 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:25:44 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:25:50 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-29 19:25:50 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-29 19:25:51 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-29 19:25:54 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-29 19:25:54 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 19:25:55 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 19:25:55 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-29 19:25:57 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-29 19:25:57 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-29 19:25:57 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-29 19:25:59 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title: Senior QA Automation Engineer
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:37 - Job Title is displayed: true
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:52 - Verified job title: True
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:45 - Job Location is displayed: true
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:55 - Verified job location: True
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:57 - Verified job ID: True
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:53 - Job ID is displayed: true
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:60 - Verified job description: Postman
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Postman
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:63 - Verified job qualifications: B.Tech
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: B.Tech
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:66 - Verified job responsibilities: web-based automation
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: web-based automation
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: BDD
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:71 - Verified job requirements: Git
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Git
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:74 - Verified job requirements: Selenium
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Selenium
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:67 - Parent window handle: 9250512F399BAB10BDAD5BBA19422838
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:69 - Parent window stored in alias: 9250512F399BAB10BDAD5BBA19422838
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:71 - Waiting for Apply Now button to be clickable.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  JobDetailsPage:73 - Apply Now button clicked.
+2025-04-29 19:26:00 [TestNG-tests-1] INFO  UISteps:82 - Clicked on Apply Now button
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  UISteps:98 - Verified page title: Senior QA Automation Engineer
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  JobDetailsPage:77 - Waiting for Return to Job Search link to be clickable.
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 9250512F399BAB10BDAD5BBA19422838
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  JobDetailsPage:79 - Return to Job Search link clicked.
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  UISteps:90 - Clicked to return to job search
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-29 19:26:06 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 9250512F399BAB10BDAD5BBA19422838
+2025-04-29 19:26:08 [TestNG-tests-1] INFO  UISteps:105 - Verified back to search results page
+2025-04-29 19:26:08 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:26:08 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:32:35 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:32:35 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:32:36 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:32:36 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:33:21 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:33:21 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:44:43 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:44:43 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:44:44 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:44:44 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:44:49 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-29 19:44:49 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 19:44:49 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 19:44:49 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-29 19:44:49 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 19:44:50 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 19:44:50 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-29 19:44:50 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-29 19:44:50 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-29 19:44:50 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-29 19:44:54 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-29 19:44:54 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 19:44:54 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 19:44:54 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-29 19:44:56 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-29 19:44:56 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-29 19:44:56 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title: Senior QA Automation Engineer
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  JobDetailsPage:37 - Job Title is displayed: true
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  UISteps:52 - Verified job title: True
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  JobDetailsPage:45 - Job Location is displayed: true
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  UISteps:55 - Verified job location: True
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  UISteps:57 - Verified job ID: True
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  JobDetailsPage:53 - Job ID is displayed: true
+2025-04-29 19:44:59 [TestNG-tests-1] INFO  UISteps:60 - Verified job description: Postman
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Postman
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  UISteps:63 - Verified job qualifications: B.Tech
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: B.Tech
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  UISteps:66 - Verified job responsibilities: web-based automation
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: web-based automation
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: BDD
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  UISteps:71 - Verified job requirements: Git
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Git
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  UISteps:74 - Verified job requirements: Selenium
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Selenium
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:67 - Parent window handle: 6AD5BF36DB1AD9BCA4D202016D770638
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:69 - Parent window stored in alias: 6AD5BF36DB1AD9BCA4D202016D770638
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:71 - Waiting for Apply Now button to be clickable.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  JobDetailsPage:73 - Apply Now button clicked.
+2025-04-29 19:45:00 [TestNG-tests-1] INFO  UISteps:82 - Clicked on Apply Now button
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  UISteps:98 - Verified page title: Senior QA Automation Engineer
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  JobDetailsPage:77 - Waiting for Return to Job Search link to be clickable.
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 6AD5BF36DB1AD9BCA4D202016D770638
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  JobDetailsPage:79 - Return to Job Search link clicked.
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  UISteps:90 - Clicked to return to job search
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-29 19:45:06 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 6AD5BF36DB1AD9BCA4D202016D770638
+2025-04-29 19:45:09 [TestNG-tests-1] INFO  UISteps:105 - Verified back to search results page
+2025-04-29 19:45:09 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:45:09 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:58:26 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:58:26 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:58:27 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:58:27 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 19:58:32 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-29 19:58:33 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-29 19:58:37 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-29 19:58:37 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 19:58:37 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 19:58:37 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-29 19:58:39 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-29 19:58:39 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-29 19:58:39 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title: Senior QA Automation Engineer
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:37 - Job Title is displayed: true
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:52 - Verified job title: True
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:45 - Job Location is displayed: true
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:55 - Verified job location: True
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:57 - Verified job ID: True
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:53 - Job ID is displayed: true
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:60 - Verified job description: Postman
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Postman
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:63 - Verified job qualifications: B.Tech
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: B.Tech
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:66 - Verified job responsibilities: web-based automation
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: web-based automation
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: BDD
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:71 - Verified job requirements: Git
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Git
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:74 - Verified job requirements: Selenium
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Selenium
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:67 - Parent window handle: 2B53D720B107713B9BFE493204347C9B
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:69 - Parent window stored in alias: 2B53D720B107713B9BFE493204347C9B
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:71 - Waiting for Apply Now button to be clickable.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  JobDetailsPage:73 - Apply Now button clicked.
+2025-04-29 19:58:42 [TestNG-tests-1] INFO  UISteps:82 - Clicked on Apply Now button
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  UISteps:98 - Verified page title: Senior QA Automation Engineer
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  JobDetailsPage:77 - Waiting for Return to Job Search link to be clickable.
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 2B53D720B107713B9BFE493204347C9B
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  JobDetailsPage:79 - Return to Job Search link clicked.
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  UISteps:90 - Clicked to return to job search
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-29 19:58:48 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 2B53D720B107713B9BFE493204347C9B
+2025-04-29 19:58:51 [TestNG-tests-1] INFO  UISteps:105 - Verified back to search results page
+2025-04-29 19:58:51 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 19:58:51 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 20:00:48 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 20:00:48 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 20:00:49 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 20:00:49 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  HomePage:25 - Navigated to LabCorp homepage: https://www.labcorp.com
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  HomePage:27 - Cookies handled.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  WebElementHelper:22 - Cookies pop-up is displayed.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  WebElementHelper:24 - Cookies pop-up accepted.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  HomePage:35 - Cookies handled.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  HomePage:40 - Careers link is not displayed, attempting to open the menu.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  HomePage:42 - Menu is visible, clicking on it.
+2025-04-29 20:00:54 [TestNG-tests-1] INFO  HomePage:44 - Menu is opened, clicking on Careers link.
+2025-04-29 20:00:58 [TestNG-tests-1] INFO  HomePage:46 - Careers link is clicked.
+2025-04-29 20:00:58 [TestNG-tests-1] INFO  HomePage:49 - Waiting for page title to be: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 20:00:58 [TestNG-tests-1] INFO  HomePage:51 - Page title verified: Careers at Labcorp | Embrace Possibilities, Change Lives
+2025-04-29 20:00:58 [TestNG-tests-1] INFO  CareersPage:27 - Searching for position: QA Test Automation Developer
+2025-04-29 20:01:01 [TestNG-tests-1] INFO  CareersPage:29 - Search button clicked.
+2025-04-29 20:01:01 [TestNG-tests-1] INFO  CareersPage:36 - Before Select First position handle Cookies.
+2025-04-29 20:01:01 [TestNG-tests-1] INFO  CareersPage:38 - Waiting for the first position to be clickable.
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  CareersPage:41 - First position clicked.
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:35 - Job Title: Senior QA Automation Engineer
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:37 - Job Title is displayed: true
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  UISteps:52 - Verified job title: True
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:45 - Job Location is displayed: true
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  UISteps:55 - Verified job location: True
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  UISteps:57 - Verified job ID: True
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:53 - Job ID is displayed: true
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  UISteps:60 - Verified job description: Postman
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Postman
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  UISteps:63 - Verified job qualifications: B.Tech
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: B.Tech
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  UISteps:66 - Verified job responsibilities: web-based automation
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: web-based automation
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 20:01:04 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: BDD
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  UISteps:71 - Verified job requirements: Git
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Git
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  UISteps:74 - Verified job requirements: Selenium
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:60 - Description: Skills - Must Have
+Experience in functional testing of web-based applications
+Analyzing software requirements and preparing test scenarios.
+Experience in selenium with Java/Python/C#
+Experience in BDD framework
+Experience in testing Web APIs including REST, xml based using tools like Postman, SOAP UI, REST Assured etc.
+Interacting with clients to understand product requirements.
+Participating in design reviews and providing input on requirements, product design, and potential problems.
+Worked in Waterfall or Agile methodologies
+Should have strong exposure to web and non-web based application testing and related tools
+Good Communication Skills, written & speaking.
+Proficient in creating and executing SQL queries
+Familiarity with tools such as Git, ALM/Jira/Bugzilla, Rally
+Experience in Selenium with Java/Python/C# language for web-based automation
+Experience in creating automation framework from scratch
+Skills - Nice to Have
+Sound knowledge of creating documentations/artifacts related to testing 
+Knowledge in deployment of Java based applications
+Experience in performance testing using various tools.
+Awareness of QA metrics like rejection ratio, defect leakage, pass rate etc.
+Experience in BDD framework
+Experience:
+5-7 years of experience required
+Qualification:
+B.Tech/ Engineering in computer science or MCA required
+Labcorp is proud to be an Equal Opportunity Employer:
+Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic.
+We encourage all to apply
+If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:61 - Verifying requirement: Selenium
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:67 - Parent window handle: 174062436F82F2E065028F15642F1DDD
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:69 - Parent window stored in alias: 174062436F82F2E065028F15642F1DDD
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:71 - Waiting for Apply Now button to be clickable.
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  JobDetailsPage:73 - Apply Now button clicked.
+2025-04-29 20:01:05 [TestNG-tests-1] INFO  UISteps:82 - Clicked on Apply Now button
+2025-04-29 20:01:10 [TestNG-tests-1] INFO  UISteps:98 - Verified page title: Senior QA Automation Engineer
+2025-04-29 20:01:10 [TestNG-tests-1] INFO  JobDetailsPage:77 - Waiting for Return to Job Search link to be clickable.
+2025-04-29 20:01:11 [TestNG-tests-1] INFO  WebElementHelper:102 - Closed 1 child windows
+2025-04-29 20:01:11 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 174062436F82F2E065028F15642F1DDD
+2025-04-29 20:01:11 [TestNG-tests-1] INFO  JobDetailsPage:79 - Return to Job Search link clicked.
+2025-04-29 20:01:11 [TestNG-tests-1] INFO  UISteps:90 - Clicked to return to job search
+2025-04-29 20:01:11 [TestNG-tests-1] INFO  ApplicationPage:21 - Switching back to Job Details page.
+2025-04-29 20:01:11 [TestNG-tests-1] INFO  WebElementHelper:87 - Switched back to parent window: 174062436F82F2E065028F15642F1DDD
+2025-04-29 20:01:13 [TestNG-tests-1] INFO  UISteps:105 - Verified back to search results page
+2025-04-29 20:01:13 [TestNG-tests-1] INFO  ReportHelperListener:127 - Driver is null while capturing screenshot!
+2025-04-29 20:01:13 [TestNG-tests-1] INFO  ReportHelperListener:54 - Exception during success reporting: ScreenCapture path must not be null or empty
