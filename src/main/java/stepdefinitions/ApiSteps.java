@@ -39,7 +39,7 @@ public class ApiSteps extends BasePage {
 		response = RestClient.get(endpoint);
 		ScenarioContextManager.setResponse(response);
 		ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
-		test.info("GET request sent to: " + endpoint);
+		
 
 	}
 
@@ -48,7 +48,7 @@ public class ApiSteps extends BasePage {
 		response = RestClient.put(endpoint, requestBody);
 		ScenarioContextManager.setResponse(response);
 		ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
-		test.info("PUT request sent to: " + endpoint);
+		
 	}
 
 	@When("I send a PATCH request to {string}")
@@ -56,7 +56,7 @@ public class ApiSteps extends BasePage {
 		response = RestClient.patch(endpoint, requestBody);
 		ScenarioContextManager.setResponse(response);
 		ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
-		test.info("PATCH request sent to: " + endpoint);
+		
 	}
 
 	@When("I send a DELETE request to {string}")
@@ -64,7 +64,7 @@ public class ApiSteps extends BasePage {
 		response = RestClient.delete(endpoint);
 		ScenarioContextManager.setResponse(response);
 		ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
-		test.info("DELETE request sent to: " + endpoint);
+		
 	}
 
 	@When("I send a POST request to {string}")
@@ -75,7 +75,7 @@ public class ApiSteps extends BasePage {
 
 		ScenarioContextManager.setResponse(response);
 		ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
-		test.info("POST request sent to: " + endpoint);
+		
 	}
 
 	@When("I send a {string} request to {string} with:")
@@ -93,7 +93,7 @@ public class ApiSteps extends BasePage {
 
 		ScenarioContextManager.setResponse(response);
 		ScenarioContextManager.setResponseBodyAsMap(response.jsonPath().getMap(""));
-		test.info(method + " request sent to: " + endpoint);
+		
 	}
 
 	@Given("I have the order payload from file {string}")
@@ -110,7 +110,7 @@ public class ApiSteps extends BasePage {
 		} catch (Exception e) {
 			throw new RuntimeException("Failed to load payload file: " + fileName, e);
 		}
-		test.info("Order payload loaded from file: " + fileName);
+		
 	}
 
 	// -------- Response Validations --------
@@ -118,20 +118,20 @@ public class ApiSteps extends BasePage {
 	@Then("the response status code should be {int}")
 	public void validateStatusCode(int expectedStatusCode) {
 		assertEquals(RestClient.getStatusCode(), expectedStatusCode, "Unexpected status code");
-		test.info("Expected status code: " + expectedStatusCode);
+		
 	}
 
 	@Then("the response should contain header {string}")
 	public void validateHeader(String headerName) {
 		assertTrue(RestClient.hasHeader(headerName), "Header not found: " + headerName);
-		test.info("Header found: " + headerName);
+		
 	}
 
 	@Then("the response body should contain {string}")
 	public void validateResponseBody(String expectedContent) {
 		String body = RestClient.getResponseBodyAsString();
 		assertTrue(body.contains(expectedContent), "Response body does not contain: " + expectedContent);
-		test.info("Response body contains: " + expectedContent);
+		
 	}
 
 	@Then("the response should have valid path")
@@ -139,7 +139,7 @@ public class ApiSteps extends BasePage {
 		String path = ScenarioContextManager.getResponse().jsonPath().getString("path");
 		assertNotNull(path, "Path should not be null in response");
 		assertFalse(path.isEmpty(), "Path should not be empty in response");
-		test.info("Path validated: " + path);
+		
 	}
 
 	@Then("the response should have valid ip")
@@ -147,7 +147,7 @@ public class ApiSteps extends BasePage {
 		String ip = ScenarioContextManager.getResponse().jsonPath().getString("ip");
 		assertNotNull(ip, "IP should not be null in response");
 		assertFalse(ip.isEmpty(), "IP should not be empty in response");
-		test.info("IP validated: " + ip);
+		
 	}
 
 	@Then("the response should contain headers:")
@@ -168,28 +168,28 @@ public class ApiSteps extends BasePage {
 			}
 			assertEquals(actualValue, expectedValue, "Header mismatch for: " + headerName);
 		}
-		test.info("Headers validated");
+		
 	}
 
 	@Then("the response should contain accurate customer information")
 	public void validateCustomerInformation() {
 		String customerName = ScenarioContextManager.getResponse().jsonPath().getString("customer.name");
 		assertEquals(customerName, "Jane Smith", "Customer name does not match");
-		test.info("Customer name validated: " + customerName);
+		
 	}
 
 	@Then("the response should contain accurate payment details")
 	public void validatePaymentDetails() {
 		String paymentMethod = ScenarioContextManager.getResponse().jsonPath().getString("payment.method");
 		assertEquals(paymentMethod, "Credit Card", "Payment method does not match");
-		test.info("Payment method validated: " + paymentMethod);
+		
 	}
 
 	@Then("the response should contain accurate product information")
 	public void validateProductInformation() {
 		String productName = ScenarioContextManager.getResponse().jsonPath().getString("products[0].name");
 		assertEquals(productName, "Premium Product", "Product name does not match");
-		test.info("Product name validated: " + productName);
+		
 	}
 
 	@Then("the response should contain {string} customer name")
@@ -198,43 +198,43 @@ public class ApiSteps extends BasePage {
 		JsonNode parsedBodyNode = mapper.readTree(responseString).path("parsedBody");
 		Order order = mapper.treeToValue(parsedBodyNode, Order.class);
 		assertEquals(order.getCustomer().getName(), expectedName, "Customer name does not match");
-		test.info("Customer name validated: " + expectedName);
+		
 	}
 
 	@Then("the response should contain body fields:")
 	public void theResponseShouldContainBodyFields(DataTable dataTable) throws Exception {
 		validateFieldsAgainstParsedBody(dataTable);
-		test.info("Response body fields validated");
+		
 	}
 
 	@Then("the response should contain customer information:")
 	public void validateCustomerInformation(DataTable dataTable) throws Exception {
 		validateFieldsAgainstParsedBody(dataTable);
-		test.info("Customer information validated");
+		
 	}
 
 	@Then("the response should contain payment detail:")
 	public void validatePaymentDetails(DataTable dataTable) throws Exception {
 		validateFieldsAgainstParsedBody(dataTable);
-		test.info("Payment details validated");
+		
 	}
 
 	@Then("the response should contain product information:")
 	public void validateProductInformation(DataTable dataTable) throws Exception {
 		validateFieldsAgainstParsedBody(dataTable);
-		test.info("Product information validated");
+	
 	}
 
 	@And("^the response should contain first details:$")
 	public void theResponseShouldContainFirstDetails(DataTable dataTable) throws Exception {
 		validateFieldsAgainstParsedBody(dataTable);
-		test.info("First details validated");
+		
 	}
 
 	@And("^the response should contain second details:$")
 	public void theResponseShouldContainSecondDetails(DataTable dataTable) throws Exception {
 		validateFieldsAgainstParsedBody(dataTable);
-		test.info("Second details validated");
+		
 	}
 
 	private void validateFieldsAgainstParsedBody(DataTable dataTable) throws Exception {

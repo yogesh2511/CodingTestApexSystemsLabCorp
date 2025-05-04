@@ -4,8 +4,7 @@ Feature: Order API Validation
   I want to validate order API responses
   So that I can ensure data integrity
 
-  @SmokeTest
-  Scenario: Validate POST request with Order payload
+Scenario: Validate POST request with Order payload
     Given I have the order payload from file "premium_order.json"
     When I send a "POST" request to "/sample-request" with:
       | author | beeceptor |

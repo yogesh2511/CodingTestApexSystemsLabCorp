@@ -57,8 +57,11 @@ public class JobDetailsPage extends BasePage {
 
 	public void verifyDescriptionText(String expectedText) {
 		WebElement descriptionPara = WaitUtils.waitForElementVisible(driver, descriptionParagraph);
-		LoggerUtils.info("Description: "+descriptionPara.getText());
+		String actualText = descriptionPara.getText();
+		LoggerUtils.info("Description: "+actualText);
 		LoggerUtils.info("Verifying requirement: " + expectedText);
+		//Assert.assertEquals(actualText, expectedText, "Texts do not match");
+		//Assert.assertTrue(actualText.contains(expectedText), "The actual text should contain: " + expectedText);
 		Assert.assertTrue(descriptionPara.getText().toLowerCase().contains(expectedText.toLowerCase()));
 	}
 
