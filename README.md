@@ -127,15 +127,15 @@ src/
    ```
 
 4. View Reports:
-   - **Extent Report:** `report/ExtentReport.html`
-   - **Cucumber HTML Report:** `target/cucumber-reports.html`
+   - **Extent Report:** `test-output/SparkReport/Html/ExtentReport.html`
+   - **Cucumber HTML Report:** `test-output/target/cucumber-reports.html`
    
 ---
 
 ## 📸 Additional Features
 - **Screenshot on Failure**: Automatically attaches screenshots for failed UI scenarios.
 - **Dynamic Driver Management**: No need to manually download chromedriver.
-- **Custom Logs**: Clear info and error logs during execution for easy debugging.
+- **Custom Logs**: Clear info and error logs during execution for easy debugging -`test-output/logs/Selenium.log`
 - **Scenario Context Management**: Sharing data between steps cleanly using `ScenarioContextManager`.
 
 ---
