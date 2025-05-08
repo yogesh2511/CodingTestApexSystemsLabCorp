@@ -26,6 +26,14 @@ public class Config {
         return properties.getProperty("browser", "chrome");
     }
 
+    public static String getHeadless() {
+        return properties.getProperty("headless", "false");
+    }
+    
+    public static String getNotifications() {
+        return properties.getProperty("notifications", "false");
+    }
+    
     public static String getApiBaseUrl() {
         return properties.getProperty("api.base.url");
     }

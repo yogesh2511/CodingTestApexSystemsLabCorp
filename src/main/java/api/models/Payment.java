@@ -1,4 +1,4 @@
-package api.clients;
+package api.models;
 
 import io.restassured.matcher.ResponseAwareMatcher;
 import io.restassured.response.Response;

@@ -1,4 +1,4 @@
-package api.models;
+package api.clients;
 
 import java.util.Map;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -6,16 +6,18 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import utilities.Config;
 
 public class RestClient {
 	private static RequestSpecification request;
 	private static Response response;
 	private static final ObjectMapper objectMapper = new ObjectMapper();
 	private static String requestBody;
+	private static String baseURI = Config.getApiBaseUrl();
 
 	// Reset and start a fresh request
 	public static RestClient reset() {
-		RestAssured.baseURI = "https://echo.free.beeceptor.com"; // ✅ load base URI here
+		RestAssured.baseURI = baseURI; 
 		request = RestAssured.given().log().all();
 		return new RestClient();
 	}

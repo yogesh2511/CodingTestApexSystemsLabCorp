@@ -22,11 +22,11 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import api.clients.Order;
-import api.models.RestClient;
+import api.clients.RestClient;
+import api.models.Order;
 import hooks.ScenarioContextManager;
 
-public class ApiSteps extends BasePage {
+public class ApiSteps{
 	private Response response;
 	private Object requestBody;
 	private RestClient client = new RestClient();

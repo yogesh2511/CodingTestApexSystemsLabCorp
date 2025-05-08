@@ -13,16 +13,16 @@ public class UIHooks {
     @Before("@ui")
     public void beforeUIScenario(Scenario scenario) {
         System.out.println("Starting UI Scenario: " + scenario.getName());
-        DriverManager.initDriver(); // <-- Initialize driver for this thread
+        DriverManager.initDriver(); 
     }
 
     @After("@ui")
     public void afterUIScenario(Scenario scenario) {
-        WebDriver driver = DriverManager.getDriver(); // <-- Always fetch the driver freshly
+        WebDriver driver = DriverManager.getDriver();
         if (scenario.isFailed() && driver != null) {
             byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
             scenario.attach(screenshot, "image/png", scenario.getName());
         }
-        DriverManager.quitDriver(); // <-- Quit driver after scenario
+        DriverManager.quitDriver();
     }
 }

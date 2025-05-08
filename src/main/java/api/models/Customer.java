@@ -1,4 +1,4 @@
-package api.clients;
+package api.models;
 
 public class Customer {
     private String name;

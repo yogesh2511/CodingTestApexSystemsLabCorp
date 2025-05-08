@@ -1,4 +1,4 @@
-package api.clients;
+package api.models;
 
 public class Item {
     private String product_id;
